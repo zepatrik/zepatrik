@@ -2,7 +2,7 @@
 
 I'm glad you made it here. Let me introduce myself first:
 I am Patrik, Open Source enthusiast and maintainer, student at TU Munich, and passionate about doing sports
-[:bicyclist: :swimmer: :runner: (follow me on Strava)](https://www.strava.com/athletes/76301023).
+:bicyclist: :swimmer: :runner:.
 
 Mostly, I work with Go and TypeScript. I am passionate about security, automata and formal languages, and functional
 programming (the most hyped topics, I know :wink:). Check out my current big
